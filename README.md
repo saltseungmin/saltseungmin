@@ -14,7 +14,7 @@
 - :link: Github: [github.com/saltseungmin](github.com/saltseungmin)
 
 ## 나의 목표:
-- 저의 목표는 언젠가 저 자신만의 게임을 만들어 제가 만든 게임을 유저들을 즐기는 모습을 보고싶습니다
+- 저의 목표는 언젠가 저 자신만의 게임을 만들어 제가 만든 게임을 유저들을 즐기는 모습을 보는것입니다!
 
 ## 배우고 있는것
 - C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
