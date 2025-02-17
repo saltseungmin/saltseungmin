@@ -8,11 +8,11 @@
 -
 
 ## 연락처:
-- Email: saltseungmin@gmail.com
+- :email: Email: saltseungmin@hmail.com
+  
+- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/>Discord: salt_seungmin
 
-- Discord: salt_seungmin
-
-- github: github.com/saltseungmin
+- :link: Github: [github.com/saltseungmin](github.com/saltseungmin)
 
 ## 좋아하는 게임:
 - 저는 리그오브레전드, 마인크래프트, 리썰 컴퍼니등 사용자의 플레이 성향에따라 공략이 달라지는 게임을 선호합니다
@@ -20,4 +20,6 @@
 ## 나의 목표:
 - 저의 목표는 언젠가 저 자신만의 게임을 만들어 제가 만든 게임을 유저들을 즐기는 모습을 보고싶습니다
 
-
+## 배우고 있는것
+- C# <img src="https://www.javacodegeeks.com/wp-content/uploads/2024/01/pngegg-1-1.png"  width="20" height="20"/>
+- Unity <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png"  width="20" height="20"/>
