@@ -7,12 +7,12 @@
 -
 
 ## 연락처:
-- :email: Email: saltseungmin@hmail.com
+- :email: Email: saltseungmin@gmail.com
   
 - <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/> Discord: salt_seungmin
 
 - :link: Github: [github.com/saltseungmin](github.com/saltseungmin)
-
+  
 ## 나의 목표:
 - 저의 목표는 언젠가 저 자신만의 게임을 만들어 제가 만든 게임을 유저들을 즐기는 모습을 보는것입니다!
 
