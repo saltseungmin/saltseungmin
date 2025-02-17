@@ -9,7 +9,7 @@
 ## 연락처:
 - :email: Email: saltseungmin@hmail.com
   
-- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/>Discord: salt_seungmin
+- <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"  width="20" height="20"/> Discord: salt_seungmin
 
 - :link: Github: [github.com/saltseungmin](github.com/saltseungmin)
 
