@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=350&color=gradient&text=Nice%20to%20meet%20you&fontColor=FFFFFFFF&section=header&reversal=false&animation=twinkling)
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=salt's%20Profile&fontColor=FFFFFF)
 ## 자기소개
 - 안녕하세요 저는 경기게임마이스터고등학교 1학년에 재학중인 염승민이라고 합니다!
 
